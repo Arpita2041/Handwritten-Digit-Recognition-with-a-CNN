@@ -4,7 +4,7 @@ This project is about recognizing handwritten digit with a CNN from Scratch. The
 
 ## Setup
 
-For this project, I used the Scikit-learn Digits Dataset, which contains 1,797 grayscale images, each having a resolution of 8 × 8 pixels. 
+For this project, I used the Scikit-learn Digits Dataset, which contains 1,797 grayscale images, each having a resolution of 8 × 8 pixels. \\
 I implemented a Convolutional Neural Network from scratch using Python and NumPy. 
 The CNN uses convolutional layers to extract image features, max-pooling layers to reduce feature dimensions, and fully connected layers to classify digits and implemented backpropagation and Adam optimization to train the model. 
 
