@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "digit-vision-course"
+version = "1.0.0"
+description = "Handwritten Digit Recognition with a CNN from Scratch"
+requires-python = ">=3.11"
+dynamic = ["dependencies"]
+license = "MIT"
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+include = ["project*"]

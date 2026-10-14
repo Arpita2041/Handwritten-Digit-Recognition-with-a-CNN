@@ -1,0 +1,28 @@
+{
+  "mode": "full",
+  "seed": 42,
+  "utc": "2026-10-10T06:14:00.049070+00:00",
+  "python": "3.12.14",
+  "dependencies": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "joblib": "1.5.3",
+    "Pillow": "12.3.0"
+  },
+  "data_sha256": null,
+  "dataset": "sklearn load_digits, 1797 images",
+  "temperature": 1.5838418422064626,
+  "best_validation_cross_entropy": 0.1132260955230846,
+  "epochs_run": 51,
+  "cnn_parameters": 3658,
+  "splits": {
+    "train": 1077,
+    "validation": 270,
+    "calibration": 180,
+    "test": 270
+  },
+  "array_sha256": "5889d26819cf830d070975af3c711419825fa0a078137b3d80b8e7d06bd58da0"
+}

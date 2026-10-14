@@ -1,0 +1,4 @@
+model,validation_macro_f1
+rbf_svm,0.9889149852318424
+numpy_cnn,0.9740137456056027
+logistic_regression,0.9627632009432933

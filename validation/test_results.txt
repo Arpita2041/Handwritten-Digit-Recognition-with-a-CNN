@@ -1,0 +1,8 @@
+test_checkpoint_and_prediction_roundtrip (test_project.VisionTests.test_checkpoint_and_prediction_roundtrip) ... ok
+test_conv_weight_and_input_gradients (test_project.VisionTests.test_conv_weight_and_input_gradients) ... ok
+test_disjoint_splits (test_project.VisionTests.test_disjoint_splits) ... ok
+test_full_network_gradient_and_learning (test_project.VisionTests.test_full_network_gradient_and_learning) ... ok
+test_pool_routes_each_gradient_to_its_maximum (test_project.VisionTests.test_pool_routes_each_gradient_to_its_maximum) ... ok
+test_stable_cross_entropy_and_dense_gradient (test_project.VisionTests.test_stable_cross_entropy_and_dense_gradient) ... ok
+Ran 6 tests in 0.204s
+OK
