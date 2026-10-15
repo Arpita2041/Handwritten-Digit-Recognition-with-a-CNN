@@ -14,3 +14,5 @@ To evaluate performance, I compared my custom CNN with Logistic Regression and R
 
 ## Result
 The CNN achieved approximately 97.04% accuracy on clean test images and 95.19% accuracy under Gaussian noise.
+
+**Development date:** July 2024
